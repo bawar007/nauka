@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/bawar007.github.io/static/css/main.5aa9eef6.css",
-    "main.js": "/bawar007.github.io/static/js/main.973adcb8.js",
-    "static/media/header3.jpg": "/bawar007.github.io/static/media/header3.534e6f532cbc44be8038.jpg",
-    "static/media/header1.jpg": "/bawar007.github.io/static/media/header1.1306fdcd5c237213c3d8.jpg",
-    "static/media/header2.jpg": "/bawar007.github.io/static/media/header2.afaab9a38ca843d13000.jpg",
-    "index.html": "/bawar007.github.io/index.html",
-    "main.5aa9eef6.css.map": "/bawar007.github.io/static/css/main.5aa9eef6.css.map",
-    "main.973adcb8.js.map": "/bawar007.github.io/static/js/main.973adcb8.js.map"
+    "main.css": "/nauka/static/css/main.5aa9eef6.css",
+    "main.js": "/nauka/static/js/main.b73ecad4.js",
+    "static/media/header3.jpg": "/nauka/static/media/header3.534e6f532cbc44be8038.jpg",
+    "static/media/header1.jpg": "/nauka/static/media/header1.1306fdcd5c237213c3d8.jpg",
+    "static/media/header2.jpg": "/nauka/static/media/header2.afaab9a38ca843d13000.jpg",
+    "index.html": "/nauka/index.html",
+    "main.5aa9eef6.css.map": "/nauka/static/css/main.5aa9eef6.css.map",
+    "main.b73ecad4.js.map": "/nauka/static/js/main.b73ecad4.js.map"
   },
   "entrypoints": [
     "static/css/main.5aa9eef6.css",
-    "static/js/main.973adcb8.js"
+    "static/js/main.b73ecad4.js"
   ]
 }
